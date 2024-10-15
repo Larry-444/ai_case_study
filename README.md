@@ -2,15 +2,10 @@
 
 ## Overview and Origin
 
-* Name of company - NVIDIA Inc.
-
-* When was the company incorporated? Founded on April 5, 1993
-
-* Who are the founders of the company? Jensen Huang, Chris Malachowsky, and Curtis Priem
-
-* How did the idea for the company (or project) come about? They had a vision to bring 3D graphics to the gaming and multimedia markets.
-
-* How is the company funded? How much funding have they received?
+Name of company - NVIDIA Inc. was founded on April 5, 1993 by 3 men.  They are:
+Jensen Huang, Chris Malachowsky, and Curtis Priem.
+They had a vision to bring 3D graphics to the gaming and multimedia markets.
+They are now being funded by the stock market.  Receiving tens of millions of dollars.
 
 ## Business Activities
 
