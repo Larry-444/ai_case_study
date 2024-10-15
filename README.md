@@ -2,7 +2,7 @@
 
 ## Overview and Origin
 
-* Name of company - NVIDIA
+* Name of company - NVIDIA Inc.
 
 * When was the company incorporated? Founded on April 5, 1993
 
