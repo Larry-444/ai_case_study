@@ -6,16 +6,17 @@ NVIDIA Inc. was founded on April 5, 1993 by 3 men.  They are:
 Jensen Huang, Chris Malachowsky, and Curtis Priem.
 They had a vision to bring 3D graphics to the gaming and multimedia markets.
 Today they are trying to achieve superhuman productivity.
-They are now being funded tens of millions of dollars by the stock market.
+They are now being funded tens of millions of dollars by investors.
 
 ## Business Activities
 
-They have been at the forefront of accelerated computing which has helped with the
-acceleration of deep learning.
+Nvidia has been at the forefront of accelerated computing which has helped with the
+acceleration of GPUs and deep learning.
 
 Their intended customers are Google and Microsft to Dell and HP.  While Google
 and Microsoft are currently customers of Nvidia, they are also competitors.  
-Although it will take them a few more years to get to Nvidia's position.
+Although it will take them a few more years to get to Nvidia's ability to make
+GPUs as fast as they do, they will eventually catch up.
 Microsoft and Google are currently #3 and #4 for the largest American companies
 by market capitalization.
 
@@ -71,20 +72,27 @@ their software libraries, allowing customers to get more from the same GPUs.
 For example, in a few months they were able to improve their low-latency 
 Llama 70B performance 350%.
  
-Nvidia is dominating their competitors.  They have passed them in their market
+Nvidia is dominating their competitors.  They have passed Google and  in their market
 caps and is closing in on the #1 position in the country.
 
 ## Recommendations
 
-I would suggest creating a service platform that would reach ordinary people to
-help them organize their time and simplify their lives.
-I believe that the Nvidia logo could become a well known icon just like Google
-or Facebook.
+I would suggest really focusing on the public sector. It would reach ordinary people to
+make energy bills cheaper.
+
+I believe that the Nvidia logo could become a well known icon just like Google, Micrsoft
+or Facebook if it is marketed correctly.
 
 I think it would benefit the company by showing people that Nvidia is here and helping
-to make thier lives easier.
+to make their lives easier.
 
 * What technologies would this additional product or service utilize?
-This service would require 
+This service would 
 
 * Why are these technologies appropriate for your solution?
+This suggestion
+
+## Resources
+
+www.nvidia.com
+www.stackoverflow.com
