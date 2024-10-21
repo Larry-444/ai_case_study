@@ -94,7 +94,6 @@ I believe the technology that will be affected the most is the self driving vehi
 or future ways of transportation like flying vehicles or self flying helicopter
 type of apparatuses.
 
-* Why are these technologies appropriate for your solution?
 The continuation and development of GPUs will be important and AI deep learning.  
 The ability to use AI for the sensors that will need to be used in the autonomous
 vehicles.  Without them it will not be able to be possible.
