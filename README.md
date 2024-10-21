@@ -1,17 +1,21 @@
 # AI CASE STUDY
 
+I chose Nvidia as the company to use for my case study.
+
 ## Overview and Origin
 
 NVIDIA Inc. was founded on April 5, 1993 by 3 men.  They are:
 Jensen Huang, Chris Malachowsky, and Curtis Priem.
 They had a vision to bring 3D graphics to the gaming and multimedia markets.
 Today they are trying to achieve superhuman productivity.
-They are now being funded tens of millions of dollars by investors.
+They are also being funded tens of millions of dollars by investors.  Whether
+that is individual investors (buying their stock) or by buying exposure through
+index funds and exchange-traded funds (ETFs).
 
 ## Business Activities
 
 Nvidia has been at the forefront of accelerated computing which has helped with the
-acceleration of GPUs and deep learning.
+acceleration of GPUs, data centers, and deep learning.
 
 Their intended customers are Google and Microsft to Dell and HP.  While Google
 and Microsoft are currently customers of Nvidia, they are also competitors.  
