@@ -18,9 +18,9 @@ and Microsoft are currently customers of Nvidia, they are also competitors.
 Although it will take them a few more years to get to Nvidia's ability to make
 GPUs as fast as they do, they will eventually catch up.
 Microsoft and Google are currently #3 and #4 for the largest American companies
-by market capitalization.
+by market capitalization, Nvidia has passed them up and is currently #2.
 
-Nvidida offers much faster speeds from their GPUs than any other company can produce.
+Nvidia offers much faster speeds from their GPUs than any other company can produce.
 Since the tech industry relies on the speed of the processors that they have and
 Nvidia has the fastest ones.  The competition has not been able to catch up yet.
 Nvidia offers GPU's that can outperform all other chips in the market.
@@ -47,7 +47,7 @@ to solve the most challenging problems.
 NVIDIA is currently pursuing fields in (Architecture, Engineering, Construction and Operations),
 Automotive, Consumer Internet, Energy, Financial Services, Gaming, GLobal Public Sector,
 Healthcare and Life Sciences, Higher Education and Research, Industrial, Manufacturing,
-Media and Entertainment, Restaurants and Quick Service, Reatail and COnsumer Packaged Goods,
+Media and Entertainment, Restaurants and Quick Service, Reatail and Consumer Packaged Goods,
 Robotics, Smart Cities and Spaces, Supercomputing, Telecommunications, and US Public Sector.
 
 Nvidia Geforce 256 was the graphics card that launched Nvidia into the tech industry.
@@ -55,9 +55,11 @@ It started the era where gaming, computing and AI evolved together.  Today they 
 developed the GPU, igniting deep learning into the modern AI era of computing with the GPU
 acting as the brain of computers, robots and self-driving vehicles.
 
-What are the other major companies in this field?
-ASML, GOOGLE, MICROSOFT, META, INTEL, and
-MICRO DEVICES are a few of the other companies in the field of AI and chip making.
+Other major companies in this field of AI, high performance computing, chip making,
+AI hardware market, and data centers are:
+IBM, Marvell Technologies, Synopsys, Amazon, Alibaba Cloud, Huawei, Cisco Systems, Apple,
+GOOGLE, MICROSOFT, META, INTEL, AMD, Qualcomm, TSMC, and Micron Technology.
+These companies directly compete with Nvidia.
 
 ## Results
 
@@ -77,22 +79,28 @@ caps and is closing in on the #1 position in the country.
 
 ## Recommendations
 
-I would suggest really focusing on the public sector. It would reach ordinary people to
-make energy bills cheaper.
+I would suggest that Nvidia really focus on the space industry sector. A lot 
+of the technolgy that the space industry uses eventually ends up in the public market
+where ordinary people will use this "watered down" technolgy in their daily lives.
 
-I believe that the Nvidia logo could become a well known icon just like Google, Micrsoft
-or Facebook if it is marketed correctly.
+I believe that the Nvidia logo could become a well known icon just like Google, Microsoft
+or Facebook as you see it on a side of a rocket when it's blasting off.
 
 I think it would benefit the company by showing people that Nvidia is here and helping
-to make their lives easier.
+to make their lives easier.  You won't really see any "product" from Nvidia because
+most of what they will help with is inside the technology.
 
-* What technologies would this additional product or service utilize?
-This service would 
+I believe the technology that will be affected the most is the self driving vehicles
+or future ways of transportation like flying vehicles or self flying helicopter
+type of apparatuses.
 
 * Why are these technologies appropriate for your solution?
-This suggestion
+The continuation and development of GPUs will be important and AI deep learning.  
+The ability to use AI for the sensors that will need to be used in the autonomous
+vehicles.  Without them it will not be able to be possible.
 
 ## Resources
 
-www.nvidia.com
-www.stackoverflow.com
+www.nvidia.com,
+www.stackoverflow.com,
+www.rankedred.com
